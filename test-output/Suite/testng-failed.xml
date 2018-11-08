@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.Winwire.MaddiesFund.TestScripts.Test1">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="testLogin1"/>
+          <include name="afterMethod"/>
+          <include name="testLogin3"/>
+          <include name="beforeclass"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- com.Winwire.MaddiesFund.TestScripts.Test1 -->
+      <class name="com.Winwire.MaddiesFund.TestScripts.Test2">
+        <methods>
+          <include name="testLogin3"/>
+          <include name="testLogin1"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="beforeclass"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- com.Winwire.MaddiesFund.TestScripts.Test2 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Regression Suite]">
+  <listeners>
+    <listener class-name="com.Winwire.MaddiesFund.Helper.listener.ExtentListener"/>
+  </listeners>
+  <test name="B(failed)">
+    <classes>
+      <class name="com.MaddiesFund.B">
+        <methods>
+          <include name="testLoginB"/>
+        </methods>
+      </class> <!-- com.MaddiesFund.B -->
+    </classes>
+  </test> <!-- B(failed) -->
+  <test name="C(failed)">
+    <classes>
+      <class name="com.MaddiesFund.C">
+        <methods>
+          <include name="testLoginC"/>
+        </methods>
+      </class> <!-- com.MaddiesFund.C -->
+    </classes>
+  </test> <!-- C(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->

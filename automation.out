@@ -1,0 +1,34 @@
+2018-10-26 21:10:924 INFO  loggerHelper:26 - logger is configured
+2018-10-26 21:10:928 INFO  loggerHelper:27 - logger is configured
+2018-10-26 21:10:928 INFO  loggerHelper:28 - logger is configured
+2018-10-26 22:10:969 INFO  Retry:17 - Retrying test testLoginB with status FAILURE for the 1 times.
+2018-10-26 22:10:978 INFO  Retry:17 - Retrying test testLoginB with status FAILURE for the 2 times.
+2018-10-26 22:10:996 INFO  Retry:17 - Retrying test testLoginC with status FAILURE for the 1 times.
+2018-10-26 22:10:01 INFO  Retry:17 - Retrying test testLoginC with status FAILURE for the 2 times.
+2018-10-26 22:10:10 INFO  Retry:17 - Retrying test testLoginC with status FAILURE for the 3 times.
+2018-10-27 20:10:857 INFO  ExcelHelper:100 - result updated..
+2018-10-27 20:10:571 INFO  ExcelHelper:100 - result updated..
+2018-10-27 20:10:679 INFO  ExcelHelper:100 - result updated..
+2018-10-27 21:10:776 INFO  AssertionHelper:19 - making script PASS..
+2018-10-27 21:10:790 INFO  AssertionHelper:29 - making script FAIL..
+2018-10-27 21:10:889 INFO  AssertionHelper:19 - making script PASS..
+2018-10-27 21:10:897 INFO  AssertionHelper:29 - making script FAIL..
+2018-10-27 22:10:363 INFO  AssertionHelper:19 - making script PASS..
+2018-10-27 22:10:85 INFO  AssertionHelper:29 - making script FAIL..
+2018-10-27 22:10:224 INFO  AssertionHelper:19 - making script PASS..
+2018-10-27 22:10:313 INFO  AssertionHelper:29 - making script FAIL..
+2018-10-27 22:10:351 INFO  AssertionHelper:19 - making script PASS..
+2018-10-27 22:10:785 INFO  AssertionHelper:29 - making script FAIL..
+2018-10-27 22:10:898 INFO  AssertionHelper:19 - making script PASS..
+2018-10-27 22:10:986 INFO  AssertionHelper:29 - making script FAIL..
+2018-10-27 22:10:70 INFO  AssertionHelper:19 - making script PASS..
+2018-10-27 22:10:157 INFO  AssertionHelper:29 - making script FAIL..
+2018-10-27 22:10:240 INFO  AssertionHelper:19 - making script PASS..
+2018-10-27 22:10:313 INFO  AssertionHelper:29 - making script FAIL..
+2018-10-28 02:10:687 INFO  TestBase:123 - Initialize Web driver: 810267739
+2018-10-28 02:10:693 INFO  WaitHelper:27 - WaitHelper object created..
+2018-10-28 02:10:693 INFO  WaitHelper:37 - Implicit Wait has been set to: 120
+2018-10-28 02:10:701 INFO  WaitHelper:140 - waiting for page to load for : SECONDS seconds
+2018-10-28 02:10:705 INFO  WaitHelper:142 - page is loaded
+2018-10-28 02:10:147 INFO  TestBase:67 - **************testScreenStarted***************
+2018-10-28 02:10:102 INFO  TestBase:83 - **************testScreenFinished***************
